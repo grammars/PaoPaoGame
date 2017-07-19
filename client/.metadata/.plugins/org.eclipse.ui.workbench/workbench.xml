@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="37" version="2.0">
+<workbenchAdvisor/>
+<window height="890" maximized="true" width="1286" x="575" y="82">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="164" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="206" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="78" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1442842643632" focus="true" label="工作空间 － Flash">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+<part id="68"/>
+<part id="69"/>
+<part id="70"/>
+<part id="71"/>
+<part id="72"/>
+<part id="73"/>
+<part id="74"/>
+<part id="75"/>
+<part id="76"/>
+<part id="77"/>
+<part id="78"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="PlayerMsg.as" partName="PlayerMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/PlayerMsg.as" title="PlayerMsg.as" tooltip="main/src/jack911/pp/net/msg/PlayerMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/PlayerMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2540" selectionTopPixel="1436"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="PlayerCtrl.as" partName="PlayerCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/player/PlayerCtrl.as" title="PlayerCtrl.as" tooltip="main/src/jack911/pp/core/player/PlayerCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/player/PlayerCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="739" selectionTopPixel="160"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="OperPane.as" partName="OperPane.as" path="G:/paopao/client/main/src/jack911/pp/ui/oper/OperPane.as" title="OperPane.as" tooltip="main/src/jack911/pp/ui/oper/OperPane.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/oper/OperPane.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="703" selectionTopPixel="182"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StatusPane.as" partName="StatusPane.as" path="G:/paopao/client/main/src/jack911/pp/ui/status/StatusPane.as" title="StatusPane.as" tooltip="main/src/jack911/pp/ui/status/StatusPane.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/status/StatusPane.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1245" selectionTopPixel="660"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LobbyCtrl.as" partName="LobbyCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/lobby/LobbyCtrl.as" title="LobbyCtrl.as" tooltip="main/src/jack911/pp/core/lobby/LobbyCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/lobby/LobbyCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="750" selectionTopPixel="220"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SceneCtrl.as" partName="SceneCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/scene/SceneCtrl.as" title="SceneCtrl.as" tooltip="main/src/jack911/pp/core/scene/SceneCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/scene/SceneCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1154" selectionTopPixel="594"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsFrame.as" partName="GoodsFrame.as" path="G:/paopao/client/main/src/jack911/pp/ui/goods/GoodsFrame.as" title="GoodsFrame.as" tooltip="main/src/jack911/pp/ui/goods/GoodsFrame.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/goods/GoodsFrame.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="936" selectionTopPixel="572"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="OperIcon.as" partName="OperIcon.as" path="G:/paopao/client/main/src/jack911/pp/ui/oper/OperIcon.as" title="OperIcon.as" tooltip="main/src/jack911/pp/ui/oper/OperIcon.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/oper/OperIcon.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="547" selectionTopPixel="264"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipIcon.as" partName="EquipIcon.as" path="G:/paopao/client/main/src/jack911/pp/ui/goods/equip/EquipIcon.as" title="EquipIcon.as" tooltip="main/src/jack911/pp/ui/goods/equip/EquipIcon.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/goods/equip/EquipIcon.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="261" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SceneMsg.as" partName="SceneMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/SceneMsg.as" title="SceneMsg.as" tooltip="main/src/jack911/pp/net/msg/SceneMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/SceneMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5323" selectionTopPixel="2486"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Ape.as" partName="Ape.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/Ape.as" title="Ape.as" tooltip="main/src/jack911/pp/core/ape/Ape.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/Ape.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="513" selectionTopPixel="3696"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="JFactory.as" partName="JFactory.as" path="G:/paopao/client/JUI/src/com/anstu/jui/build/JFactory.as" title="JFactory.as" tooltip="JUI/src/com/anstu/jui/build/JFactory.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JUI/src/com/anstu/jui/build/JFactory.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1488" selectionTopPixel="682"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SkillMsg.as" partName="SkillMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/SkillMsg.as" title="SkillMsg.as" tooltip="main/src/jack911/pp/net/msg/SkillMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/SkillMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="513" selectionTopPixel="116"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsMsg.as" partName="GoodsMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/GoodsMsg.as" title="GoodsMsg.as" tooltip="main/src/jack911/pp/net/msg/GoodsMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/GoodsMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="566" selectionTopPixel="132"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MsgDistributor.as" partName="MsgDistributor.as" path="G:/paopao/client/main/src/jack911/pp/net/MsgDistributor.as" title="MsgDistributor.as" tooltip="main/src/jack911/pp/net/MsgDistributor.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/MsgDistributor.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1213" selectionTopPixel="512"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LobbyMsg.as" partName="LobbyMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/LobbyMsg.as" title="LobbyMsg.as" tooltip="main/src/jack911/pp/net/msg/LobbyMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/LobbyMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="803" selectionTopPixel="330"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="InvisibleSkill.as" partName="InvisibleSkill.as" path="G:/paopao/client/main/src/jack911/pp/core/scene/skill/InvisibleSkill.as" title="InvisibleSkill.as" tooltip="main/src/jack911/pp/core/scene/skill/InvisibleSkill.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/scene/skill/InvisibleSkill.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="578" selectionTopPixel="116"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="PlayerApe.as" partName="PlayerApe.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/PlayerApe.as" title="PlayerApe.as" tooltip="main/src/jack911/pp/core/ape/PlayerApe.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/PlayerApe.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="691" selectionTopPixel="226"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="View.as" partName="View.as" path="G:/paopao/client/main/src/jack911/pp/ui/View.as" title="View.as" tooltip="main/src/jack911/pp/ui/View.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/View.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1314" selectionTopPixel="770"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsIcon.as" partName="GoodsIcon.as" path="G:/paopao/client/main/src/jack911/pp/ui/goods/GoodsIcon.as" title="GoodsIcon.as" tooltip="main/src/jack911/pp/ui/goods/GoodsIcon.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/goods/GoodsIcon.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1304" selectionTopPixel="594"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BagContainer.as" partName="BagContainer.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/bag/BagContainer.as" title="BagContainer.as" tooltip="main/src/jack911/pp/core/goods/bag/BagContainer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/bag/BagContainer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="313" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BagHandler.as" partName="BagHandler.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/bag/BagHandler.as" title="BagHandler.as" tooltip="main/src/jack911/pp/core/goods/bag/BagHandler.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/bag/BagHandler.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="833" selectionTopPixel="468"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BagIconField.as" partName="BagIconField.as" path="G:/paopao/client/main/src/jack911/pp/ui/goods/bag/BagIconField.as" title="BagIconField.as" tooltip="main/src/jack911/pp/ui/goods/bag/BagIconField.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/goods/bag/BagIconField.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3173" selectionTopPixel="2134"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RoomTblUnit.as" partName="RoomTblUnit.as" path="G:/paopao/client/main/src/jack911/pp/config/table/RoomTblUnit.as" title="RoomTblUnit.as" tooltip="main/src/jack911/pp/config/table/RoomTblUnit.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/RoomTblUnit.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="852" selectionTopPixel="182"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RoomTbl.as" partName="RoomTbl.as" path="G:/paopao/client/main/src/jack911/pp/config/table/RoomTbl.as" title="RoomTbl.as" tooltip="main/src/jack911/pp/config/table/RoomTbl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/RoomTbl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1146" selectionTopPixel="402"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RoomRect.as" partName="RoomRect.as" path="G:/paopao/client/main/src/jack911/pp/ui/lobby/RoomRect.as" title="RoomRect.as" tooltip="main/src/jack911/pp/ui/lobby/RoomRect.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/lobby/RoomRect.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1362" selectionTopPixel="710"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="PlayerData.as" partName="PlayerData.as" path="G:/paopao/client/main/src/jack911/pp/core/vo/PlayerData.as" title="PlayerData.as" tooltip="main/src/jack911/pp/core/vo/PlayerData.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/vo/PlayerData.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="896" selectionTopPixel="424"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FacePane.as" partName="FacePane.as" path="G:/paopao/client/main/src/jack911/pp/ui/face/FacePane.as" title="FacePane.as" tooltip="main/src/jack911/pp/ui/face/FacePane.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/face/FacePane.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1004" selectionTopPixel="528"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EnterRoomResultDp.as" partName="EnterRoomResultDp.as" path="G:/paopao/client/main/src/jack911/pp/net/dp/lobby/EnterRoomResultDp.as" title="EnterRoomResultDp.as" tooltip="main/src/jack911/pp/net/dp/lobby/EnterRoomResultDp.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/dp/lobby/EnterRoomResultDp.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="644" selectionTopPixel="226"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GameResultDp.as" partName="GameResultDp.as" path="G:/paopao/client/main/src/jack911/pp/net/dp/game/GameResultDp.as" title="GameResultDp.as" tooltip="main/src/jack911/pp/net/dp/game/GameResultDp.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/dp/game/GameResultDp.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GmMsg.as" partName="GmMsg.as" path="G:/paopao/client/main/src/jack911/pp/net/msg/GmMsg.as" title="GmMsg.as" tooltip="main/src/jack911/pp/net/msg/GmMsg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/msg/GmMsg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="578"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GmPlayerPC.as" partName="GmPlayerPC.as" path="G:/paopao/client/main/src/jack911/pp/ui/gm/params/GmPlayerPC.as" title="GmPlayerPC.as" tooltip="main/src/jack911/pp/ui/gm/params/GmPlayerPC.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/gm/params/GmPlayerPC.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="618" selectionTopPixel="292"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="main.as" partName="main.as" path="G:/paopao/client/main/src/main.as" title="main.as" tooltip="main/src/main.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/main.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="459" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RoomRankPane.as" partName="RoomRankPane.as" path="G:/paopao/client/main/src/jack911/pp/ui/rank/RoomRankPane.as" title="RoomRankPane.as" tooltip="main/src/jack911/pp/ui/rank/RoomRankPane.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/rank/RoomRankPane.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1008" selectionTopPixel="462"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RoomsPane.as" partName="RoomsPane.as" path="G:/paopao/client/main/src/jack911/pp/ui/lobby/RoomsPane.as" title="RoomsPane.as" tooltip="main/src/jack911/pp/ui/lobby/RoomsPane.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/ui/lobby/RoomsPane.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="693" selectionTopPixel="330"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="RankCtrl.as" partName="RankCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/rank/RankCtrl.as" title="RankCtrl.as" tooltip="main/src/jack911/pp/core/rank/RankCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/rank/RankCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Base.as" partName="Base.as" path="G:/paopao/client/main/src/jack911/pp/core/Base.as" title="Base.as" tooltip="main/src/jack911/pp/core/Base.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/Base.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1344" selectionTopPixel="666"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BootstrapManage.as" partName="BootstrapManage.as" path="G:/paopao/client/main/src/jack911/pp/bootstrap/BootstrapManage.as" title="BootstrapManage.as" tooltip="main/src/jack911/pp/bootstrap/BootstrapManage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/bootstrap/BootstrapManage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="411" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EffectFilters.as" partName="EffectFilters.as" path="G:/paopao/client/main/src/jack911/pp/component/EffectFilters.as" title="EffectFilters.as" tooltip="main/src/jack911/pp/component/EffectFilters.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/component/EffectFilters.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="624" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Sector.as" partName="Sector.as" path="G:/paopao/client/main/src/jack911/pp/component/Sector.as" title="Sector.as" tooltip="main/src/jack911/pp/component/Sector.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/component/Sector.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3593" selectionTopPixel="1986"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Swf.as" partName="Swf.as" path="G:/paopao/client/main/src/jack911/pp/component/Swf.as" title="Swf.as" tooltip="main/src/jack911/pp/component/Swf.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/component/Swf.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="3746"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="ConfigManage.as" partName="ConfigManage.as" path="G:/paopao/client/main/src/jack911/pp/config/ConfigManage.as" title="ConfigManage.as" tooltip="main/src/jack911/pp/config/ConfigManage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/ConfigManage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="570" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AbstractManage.as" partName="AbstractManage.as" path="G:/paopao/client/main/src/jack911/pp/core/AbstractManage.as" title="AbstractManage.as" tooltip="main/src/jack911/pp/core/AbstractManage.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/AbstractManage.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="264"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Game.as" partName="Game.as" path="G:/paopao/client/main/src/jack911/pp/core/Game.as" title="Game.as" tooltip="main/src/jack911/pp/core/Game.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/Game.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="336"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Welcome.as" partName="Welcome.as" path="G:/paopao/client/main/src/jack911/pp/bootstrap/Welcome.as" title="Welcome.as" tooltip="main/src/jack911/pp/bootstrap/Welcome.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/bootstrap/Welcome.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="754"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipTbl.as" partName="EquipTbl.as" path="G:/paopao/client/main/src/jack911/pp/config/table/EquipTbl.as" title="EquipTbl.as" tooltip="main/src/jack911/pp/config/table/EquipTbl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/EquipTbl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1181" selectionTopPixel="380"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="SampleTblUnit.as" partName="SampleTblUnit.as" path="G:/paopao/client/main/src/jack911/pp/config/table/SampleTblUnit.as" title="SampleTblUnit.as" tooltip="main/src/jack911/pp/config/table/SampleTblUnit.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/SampleTblUnit.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipTblUnit.as" partName="EquipTblUnit.as" path="G:/paopao/client/main/src/jack911/pp/config/table/EquipTblUnit.as" title="EquipTblUnit.as" tooltip="main/src/jack911/pp/config/table/EquipTblUnit.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/EquipTblUnit.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Cfg.as" partName="Cfg.as" path="G:/paopao/client/main/src/jack911/pp/config/Cfg.as" title="Cfg.as" tooltip="main/src/jack911/pp/config/Cfg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/Cfg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsTbl.as" partName="GoodsTbl.as" path="G:/paopao/client/main/src/jack911/pp/config/table/GoodsTbl.as" title="GoodsTbl.as" tooltip="main/src/jack911/pp/config/table/GoodsTbl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/table/GoodsTbl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1095" selectionOffset="0" selectionTopPixel="336"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Tbl.as" partName="Tbl.as" path="G:/paopao/client/main/src/jack911/pp/config/Tbl.as" title="Tbl.as" tooltip="main/src/jack911/pp/config/Tbl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/config/Tbl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AlertCtrl.as" partName="AlertCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/alert/AlertCtrl.as" title="AlertCtrl.as" tooltip="main/src/jack911/pp/core/alert/AlertCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/alert/AlertCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="ApeCtrl.as" partName="ApeCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/ApeCtrl.as" title="ApeCtrl.as" tooltip="main/src/jack911/pp/core/ape/ApeCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/ApeCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="ApeFactory.as" partName="ApeFactory.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/ApeFactory.as" title="ApeFactory.as" tooltip="main/src/jack911/pp/core/ape/ApeFactory.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/ApeFactory.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="270" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="ApeLayer.as" partName="ApeLayer.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/ApeLayer.as" title="ApeLayer.as" tooltip="main/src/jack911/pp/core/ape/ApeLayer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/ApeLayer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1635" selectionTopPixel="792"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="FoodApe.as" partName="FoodApe.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/FoodApe.as" title="FoodApe.as" tooltip="main/src/jack911/pp/core/ape/FoodApe.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/FoodApe.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="337" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MonsterApe.as" partName="MonsterApe.as" path="G:/paopao/client/main/src/jack911/pp/core/ape/MonsterApe.as" title="MonsterApe.as" tooltip="main/src/jack911/pp/core/ape/MonsterApe.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/ape/MonsterApe.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="330" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="ChatCtrl.as" partName="ChatCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/chat/ChatCtrl.as" title="ChatCtrl.as" tooltip="main/src/jack911/pp/core/chat/ChatCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/chat/ChatCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipContainer.as" partName="EquipContainer.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/equip/EquipContainer.as" title="EquipContainer.as" tooltip="main/src/jack911/pp/core/goods/equip/EquipContainer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/equip/EquipContainer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="499" selectionTopPixel="330"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipHandler.as" partName="EquipHandler.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/equip/EquipHandler.as" title="EquipHandler.as" tooltip="main/src/jack911/pp/core/goods/equip/EquipHandler.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/equip/EquipHandler.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="387" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="EquipType.as" partName="EquipType.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/EquipType.as" title="EquipType.as" tooltip="main/src/jack911/pp/core/goods/EquipType.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/EquipType.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsContainer.as" partName="GoodsContainer.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsContainer.as" title="GoodsContainer.as" tooltip="main/src/jack911/pp/core/goods/GoodsContainer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsContainer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1176" selectionTopPixel="792"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsCtrl.as" partName="GoodsCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsCtrl.as" title="GoodsCtrl.as" tooltip="main/src/jack911/pp/core/goods/GoodsCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1227" selectionTopPixel="600"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsFactory.as" partName="GoodsFactory.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsFactory.as" title="GoodsFactory.as" tooltip="main/src/jack911/pp/core/goods/GoodsFactory.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsFactory.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1040" selectionOffset="0" selectionTopPixel="424"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsInfo.as" partName="GoodsInfo.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsInfo.as" title="GoodsInfo.as" tooltip="main/src/jack911/pp/core/goods/GoodsInfo.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsInfo.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1709" selectionTopPixel="1122"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsOperEnum.as" partName="GoodsOperEnum.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsOperEnum.as" title="GoodsOperEnum.as" tooltip="main/src/jack911/pp/core/goods/GoodsOperEnum.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsOperEnum.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1333" selectionTopPixel="556"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsType.as" partName="GoodsType.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/GoodsType.as" title="GoodsType.as" tooltip="main/src/jack911/pp/core/goods/GoodsType.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/GoodsType.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="624" selectionTopPixel="182"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StGoodsContainer.as" partName="StGoodsContainer.as" path="G:/paopao/client/main/src/jack911/pp/core/goods/StGoodsContainer.as" title="StGoodsContainer.as" tooltip="main/src/jack911/pp/core/goods/StGoodsContainer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/goods/StGoodsContainer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="447" selectionTopPixel="6"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LoginCtrl.as" partName="LoginCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/login/LoginCtrl.as" title="LoginCtrl.as" tooltip="main/src/jack911/pp/core/login/LoginCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/login/LoginCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="994" selectionTopPixel="886"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapDecorator.as" partName="MapDecorator.as" path="G:/paopao/client/main/src/jack911/pp/core/map/deco/MapDecorator.as" title="MapDecorator.as" tooltip="main/src/jack911/pp/core/map/deco/MapDecorator.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/deco/MapDecorator.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2067" selectionTopPixel="1848"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StMapDecoCfg.as" partName="StMapDecoCfg.as" path="G:/paopao/client/main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as" title="StMapDecoCfg.as" tooltip="main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1075" selectionTopPixel="468"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapDecoSwf.as" partName="MapDecoSwf.as" path="G:/paopao/client/main/src/jack911/pp/core/map/deco/MapDecoSwf.as" title="MapDecoSwf.as" tooltip="main/src/jack911/pp/core/map/deco/MapDecoSwf.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/deco/MapDecoSwf.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1015" selectionTopPixel="622"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapConfigEvent.as" partName="MapConfigEvent.as" path="G:/paopao/client/main/src/jack911/pp/core/map/events/MapConfigEvent.as" title="MapConfigEvent.as" tooltip="main/src/jack911/pp/core/map/events/MapConfigEvent.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/events/MapConfigEvent.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="686" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapMonitor.as" partName="MapMonitor.as" path="G:/paopao/client/main/src/jack911/pp/core/map/events/MapMonitor.as" title="MapMonitor.as" tooltip="main/src/jack911/pp/core/map/events/MapMonitor.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/events/MapMonitor.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AroundTraver.as" partName="AroundTraver.as" path="G:/paopao/client/main/src/jack911/pp/core/map/material/AroundTraver.as" title="AroundTraver.as" tooltip="main/src/jack911/pp/core/map/material/AroundTraver.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/material/AroundTraver.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2165" selectionTopPixel="1832"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AStarNode.as" partName="AStarNode.as" path="G:/paopao/client/main/src/jack911/pp/core/map/material/AStarNode.as" title="AStarNode.as" tooltip="main/src/jack911/pp/core/map/material/AStarNode.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/material/AStarNode.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapConfig.as" partName="MapConfig.as" path="G:/paopao/client/main/src/jack911/pp/core/map/MapConfig.as" title="MapConfig.as" tooltip="main/src/jack911/pp/core/map/MapConfig.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/MapConfig.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3133" selectionTopPixel="2580"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapCtrl.as" partName="MapCtrl.as" path="G:/paopao/client/main/src/jack911/pp/core/map/MapCtrl.as" title="MapCtrl.as" tooltip="main/src/jack911/pp/core/map/MapCtrl.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/core/map/MapCtrl.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3056" selectionTopPixel="2448"/>
+</editor>
+<editor activePart="true" focus="true" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MsgHead.as" partName="MsgHead.as" path="G:/paopao/client/main/src/jack911/pp/net/MsgHead.as" title="MsgHead.as" tooltip="main/src/jack911/pp/net/MsgHead.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/main/src/jack911/pp/net/MsgHead.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1126" selectionTopPixel="462"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="表达式"/>
+<view id="org.eclipse.ui.views.ProgressView" partName="进度">
+<viewState/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="搜索">
+<viewState isPinned="false">
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="调试">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="问题">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="问题">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="684"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="控制台">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.packageexplorer" partName="包资源管理器">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" fpeIsFlat="0" fpeSortBy="1" sorter="1">
+<fpeExpanded>
+<fpeElement fpePath="/JCommon"/>
+<fpeElement fpePath="/main/src"/>
+<fpeElement fpePath="/main/src/%typeDefaultPackage"/>
+<fpeElement fpePath="/main/src/jack911/pp"/>
+<fpeElement fpePath="/main/src/jack911/pp/bootstrap"/>
+<fpeElement fpePath="/main/src/jack911/pp/component"/>
+<fpeElement fpePath="/main/src/jack911/pp/config"/>
+<fpeElement fpePath="/main/src/jack911/pp/config/table"/>
+<fpeElement fpePath="/main/src/jack911/pp/core"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/alert"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/ape"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/chat"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/goods"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/goods/bag"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/goods/equip"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/lobby"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/login"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/map"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/map/deco"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/map/deco/struct"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/map/events"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/map/material"/>
+<fpeElement fpePath="/main/src/jack911/pp/core/rank"/>
+<fpeElement fpePath="/main/src/jack911/pp/net"/>
+<fpeElement fpePath="/main/src/jack911/pp/net/msg"/>
+<fpeElement fpePath="/main/src/jack911/pp/ui"/>
+<fpeElement fpePath="/main/src/jack911/pp/ui/face"/>
+<fpeElement fpePath="/main/src/jack911/pp/ui/lobby"/>
+<fpeElement fpePath="/main/src/jack911/pp/ui/rank"/>
+</fpeExpanded>
+<filters>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+<expanded>
+<element path="/JCommon"/>
+</expanded>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="断点"/>
+<view id="org.eclipse.debug.ui.VariableView" partName="变量">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" partName="网络监视器">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView" partName="数据/服务">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer" partName="ASDoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.adobe.flexbuilder.packageexplorer" activePerspective="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.adobe.flexbuilder.mxml.editor.ui.perspectives.DevelopmentPerspectiveFactory" id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development" label="Flash"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.editorcore.modeswitch"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.designview.activationcontrol"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.debug.ui.flexDebuggingActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.dcrad.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.zzz.editors.common.ui.project.publish"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.exportimport.actionSet1"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.as.editor.ui.NavigationActions"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.AppearanceView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.components.ComponentsView"/>
+<show_view_action id="com.adobe.flexbuilder.packageexplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.inspector.view.PropertiesView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.states.StatesViewer"/>
+<show_view_action id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.FlexLibraryProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.NewActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.flashbridge.NewFlashProProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newflashcatalystproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLApplication"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLComponent"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLItemRenderer"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLModule"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLSkin"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.wizards.NewActionScriptFile.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.classWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.interfaceWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.skinnableComponentWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.css.editor.wizards.NewCSSFile"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitTestSuiteClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.packageWizard.flex"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development"/>
+<perspective_action id="com.adobe.flexbuilder.debug.ui.perspectives.debug"/>
+<perspective_action id="com.adobe.flash.profiler.ui.ProfilingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.adobe.flexbuilder.packageexplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ProgressView"/>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@61c596">
+<folder activePageID="com.adobe.flexbuilder.packageexplorer" appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.packageexplorer" label="包资源管理器"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@61c596">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.17443688" ratioLeft="333" ratioRight="1576" relationship="2" relative="org.eclipse.ui.internal.ViewStack@61c596"/>
+<info folder="true" part="statesViewHolder" ratio="0.65" ratioLeft="520" ratioRight="280" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.mxml.editor.states.StatesViewer" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="propertiesHolder" ratio="0.249226" ratioLeft="161" ratioRight="485" relationship="4" relative="statesViewHolder">
+<folder appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.mxml.editor.inspector.view.PropertiesView" label="LabelNotFound"/>
+<page content="com.adobe.flexbuilder.mxml.editor.AppearanceView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottomLayout" ratio="0.7290323" ratioLeft="678" ratioRight="252" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="问题"/>
+<page content="com.adobe.flexbuilder.dcrad.views.DataServicesView" label="数据/服务"/>
+<page content="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" label="网络监视器"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="控制台"/>
+<page content="org.eclipse.ui.views.ProgressView" label="进度"/>
+<page content="com.adobe.flexbuilder.as.editor.asdocviewer" label="ASDoc"/>
+<page content="org.eclipse.debug.ui.DebugView" label="调试"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="搜索"/>
+<page content="com.adobe.flexbuilder.mxml.editor.design.internal.errors.view.DesignModeProblemsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="outlineHolder" ratio="0.5" ratioLeft="323" ratioRight="323" relationship="4" relative="org.eclipse.ui.internal.ViewStack@61c596">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.adobe.flexbuilder.mxml.editor.components.ComponentsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.adobe.flexbuilder.debug.ui.perspectives.FlexDebugPerspectiveFactory" id="com.adobe.flexbuilder.debug.ui.perspectives.debug" label="Flash 调试"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.editorcore.modeswitch"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.designview.activationcontrol"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.debug.ui.flexDebuggingActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.dcrad.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.zzz.editors.common.ui.project.publish"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.exportimport.actionSet1"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.AppearanceView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.components.ComponentsView"/>
+<show_view_action id="com.adobe.flexbuilder.packageexplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.inspector.view.PropertiesView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.states.StatesViewer"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.FlexLibraryProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.NewActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.flashbridge.NewFlashProProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newflashcatalystproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLApplication"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLComponent"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLItemRenderer"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLModule"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLSkin"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.wizards.NewActionScriptFile.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.classWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.interfaceWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.skinnableComponentWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.css.editor.wizards.NewCSSFile"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitTestSuiteClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.packageWizard.flex"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development"/>
+<perspective_action id="com.adobe.flexbuilder.debug.ui.perspectives.debug"/>
+<perspective_action id="com.adobe.flash.profiler.ui.ProfilingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="调试"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7491961" ratioLeft="699" ratioRight="234" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="控制台"/>
+<page content="com.adobe.flexbuilder.dcrad.views.DataServicesView" label="数据/服务"/>
+<page content="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" label="网络监视器"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.32904148" ratioLeft="230" ratioRight="469" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="变量"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="断点"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="表达式"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/bootstrap/BootstrapManage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/component/EffectFilters.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/ConfigManage.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/bootstrap/Welcome.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/table/EquipTbl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/table/SampleTblUnit.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/table/EquipTblUnit.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/Cfg.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/table/GoodsTbl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/table/RoomTbl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/config/Tbl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/alert/AlertCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/Ape.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/ApeCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/ApeFactory.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/ApeLayer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/FoodApe.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/MonsterApe.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/ape/PlayerApe.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/chat/ChatCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/bag/BagContainer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/bag/BagHandler.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/equip/EquipContainer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/equip/EquipHandler.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/EquipType.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsContainer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsFactory.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsInfo.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsOperEnum.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/GoodsType.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/goods/StGoodsContainer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/lobby/LobbyCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/login/LoginCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/deco/MapDecorator.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/deco/MapDecoSwf.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/events/MapConfigEvent.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/events/MapMonitor.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/material/AroundTraver.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/material/AStarNode.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/MapConfig.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/core/map/MapCtrl.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/net/MsgDistributor.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/main/src/jack911/pp/net/MsgHead.as"/>
+</editors>
+<item historyLabel="BootstrapManage.as" index="0">
+<position info="not_deleted" x="411" y="0"/>
+</item>
+<item historyLabel="Welcome.as" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="EffectFilters.as" index="1">
+<position info="not_deleted" x="624" y="0"/>
+</item>
+<item historyLabel="EquipTbl.as" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SampleTblUnit.as" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="EquipTblUnit.as" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="EquipTbl.as" index="4">
+<position info="not_deleted" x="1181" y="0"/>
+</item>
+<item historyLabel="Cfg.as" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="GoodsTbl.as" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RoomTbl.as" index="9">
+<position info="not_deleted" x="1146" y="0"/>
+</item>
+<item historyLabel="ConfigManage.as" index="2">
+<position info="not_deleted" x="570" y="0"/>
+</item>
+<item historyLabel="Tbl.as" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AlertCtrl.as" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Ape.as" index="12">
+<position info="not_deleted" x="513" y="0"/>
+</item>
+<item historyLabel="ApeCtrl.as" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ApeFactory.as" index="14">
+<position info="not_deleted" x="270" y="0"/>
+</item>
+<item historyLabel="ApeLayer.as" index="15">
+<position info="not_deleted" x="1635" y="0"/>
+</item>
+<item historyLabel="FoodApe.as" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MonsterApe.as" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PlayerApe.as" index="18">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="FoodApe.as" index="16">
+<position info="not_deleted" x="337" y="0"/>
+</item>
+<item historyLabel="MonsterApe.as" index="17">
+<position info="not_deleted" x="330" y="0"/>
+</item>
+<item historyLabel="PlayerApe.as" index="18">
+<position info="not_deleted" x="691" y="0"/>
+</item>
+<item historyLabel="ChatCtrl.as" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BagContainer.as" index="20">
+<position info="not_deleted" x="1004" y="0"/>
+</item>
+<item historyLabel="BagHandler.as" index="21">
+<position info="not_deleted" x="833" y="0"/>
+</item>
+<item historyLabel="EquipContainer.as" index="22">
+<position info="not_deleted" x="499" y="0"/>
+</item>
+<item historyLabel="EquipHandler.as" index="23">
+<position info="not_deleted" x="387" y="0"/>
+</item>
+<item historyLabel="EquipType.as" index="24">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="GoodsContainer.as" index="25">
+<position info="not_deleted" x="1176" y="0"/>
+</item>
+<item historyLabel="GoodsCtrl.as" index="26">
+<position info="not_deleted" x="1227" y="0"/>
+</item>
+<item historyLabel="GoodsFactory.as" index="27">
+<position info="not_deleted" x="0" y="1040"/>
+</item>
+<item historyLabel="GoodsInfo.as" index="28">
+<position info="not_deleted" x="1709" y="0"/>
+</item>
+<item historyLabel="GoodsOperEnum.as" index="29">
+<position info="not_deleted" x="1333" y="0"/>
+</item>
+<item historyLabel="GoodsType.as" index="30">
+<position info="not_deleted" x="624" y="0"/>
+</item>
+<item historyLabel="StGoodsContainer.as" index="31">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LobbyCtrl.as" index="32">
+<position info="not_deleted" x="750" y="0"/>
+</item>
+<item historyLabel="LoginCtrl.as" index="33">
+<position info="not_deleted" x="994" y="0"/>
+</item>
+<item historyLabel="MapDecorator.as" index="34">
+<position info="not_deleted" x="2067" y="0"/>
+</item>
+<item historyLabel="StMapDecoCfg.as" index="35">
+<position info="not_deleted" x="1075" y="0"/>
+</item>
+<item historyLabel="MapDecoSwf.as" index="36">
+<position info="not_deleted" x="1015" y="0"/>
+</item>
+<item historyLabel="MapConfigEvent.as" index="37">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MapMonitor.as" index="38">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MapConfigEvent.as" index="37">
+<position info="not_deleted" x="0" y="686"/>
+</item>
+<item historyLabel="AroundTraver.as" index="39">
+<position info="not_deleted" x="2165" y="0"/>
+</item>
+<item historyLabel="AStarNode.as" index="40">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MapConfig.as" index="41">
+<position info="not_deleted" x="3133" y="0"/>
+</item>
+<item historyLabel="MapCtrl.as" index="42">
+<position info="not_deleted" x="3056" y="0"/>
+</item>
+<item historyLabel="MsgDistributor.as" index="43">
+<position info="not_deleted" x="1213" y="0"/>
+</item>
+<item active="true" historyLabel="MsgHead.as" index="44">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MsgHead.as" tooltip="main/src/jack911/pp/net/MsgHead.as">
+<persistable path="/main/src/jack911/pp/net/MsgHead.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapCtrl.as" tooltip="main/src/jack911/pp/core/map/MapCtrl.as">
+<persistable path="/main/src/jack911/pp/core/map/MapCtrl.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapConfig.as" tooltip="main/src/jack911/pp/core/map/MapConfig.as">
+<persistable path="/main/src/jack911/pp/core/map/MapConfig.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AStarNode.as" tooltip="main/src/jack911/pp/core/map/material/AStarNode.as">
+<persistable path="/main/src/jack911/pp/core/map/material/AStarNode.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="AroundTraver.as" tooltip="main/src/jack911/pp/core/map/material/AroundTraver.as">
+<persistable path="/main/src/jack911/pp/core/map/material/AroundTraver.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapMonitor.as" tooltip="main/src/jack911/pp/core/map/events/MapMonitor.as">
+<persistable path="/main/src/jack911/pp/core/map/events/MapMonitor.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapConfigEvent.as" tooltip="main/src/jack911/pp/core/map/events/MapConfigEvent.as">
+<persistable path="/main/src/jack911/pp/core/map/events/MapConfigEvent.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapDecoSwf.as" tooltip="main/src/jack911/pp/core/map/deco/MapDecoSwf.as">
+<persistable path="/main/src/jack911/pp/core/map/deco/MapDecoSwf.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StMapDecoCfg.as" tooltip="main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as">
+<persistable path="/main/src/jack911/pp/core/map/deco/struct/StMapDecoCfg.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="MapDecorator.as" tooltip="main/src/jack911/pp/core/map/deco/MapDecorator.as">
+<persistable path="/main/src/jack911/pp/core/map/deco/MapDecorator.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="LoginCtrl.as" tooltip="main/src/jack911/pp/core/login/LoginCtrl.as">
+<persistable path="/main/src/jack911/pp/core/login/LoginCtrl.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="StGoodsContainer.as" tooltip="main/src/jack911/pp/core/goods/StGoodsContainer.as">
+<persistable path="/main/src/jack911/pp/core/goods/StGoodsContainer.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsType.as" tooltip="main/src/jack911/pp/core/goods/GoodsType.as">
+<persistable path="/main/src/jack911/pp/core/goods/GoodsType.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsOperEnum.as" tooltip="main/src/jack911/pp/core/goods/GoodsOperEnum.as">
+<persistable path="/main/src/jack911/pp/core/goods/GoodsOperEnum.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="GoodsInfo.as" tooltip="main/src/jack911/pp/core/goods/GoodsInfo.as">
+<persistable path="/main/src/jack911/pp/core/goods/GoodsInfo.as"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,8 @@
+#Mon Sep 21 22:22:43 CST 2015
+org.eclipse.php.core.phpForamtterUseTabs=false
+org.eclipse.php.core.taskPriorities=NORMAL,HIGH,NORMAL
+eclipse.preferences.version=1
+org.eclipse.php.core.taskTags=TODO,FIXME,XXX
+org.eclipse.php.core.phpForamtterIndentationSize=4
+org.eclipse.php.core.taskCaseSensitive=enabled
+org.eclipse.php.core.workspaceDefaultLocale=en_US

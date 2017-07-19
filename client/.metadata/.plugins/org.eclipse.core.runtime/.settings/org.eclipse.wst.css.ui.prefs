@@ -1,0 +1,16 @@
+#Mon Sep 21 22:22:42 CST 2015
+SEMI_COLON=\#ffffff | none | false
+COLON=\#f4d30b | none | false
+CURLY_BRACE=\#ffcc66 | none | false
+outline-sort=true
+ERROR=\#bf3f3f | none | false
+SELECTOR=\#7bd827 | none | false
+STRING=\#f4d30b | none | false
+NORMAL=\#ffffff | none | false
+PROPERTY_VALUE=\#8db0d3 | null | false
+eclipse.preferences.version=1
+PROPERTY_NAME=\#ffffff | none | false
+URI=\#f4d30b | none | false
+MEDIA=\#f4d30b | none | false
+ATMARK_RULE=\#ffffff | none | false
+COMMENT=\#3a8bda | none | false

@@ -1,0 +1,20 @@
+#Mon Sep 21 22:22:42 CST 2015
+editorColorKeyword=\#e6a82d | none | false | false | false
+editorColorPhpdoc=\#ccccff | none | true | false | false
+editorColorTask=\#7ca5d5 | none | true | false | false
+editorColorComment=\#3a8bda | none | false | false | false
+codeStyleNormal=\#ffffff | none | false | false | false
+smart_tab=true
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+org.eclipse.php.core.workspaceDefaultLocale=en_US
+hoverModifiers=org.eclipse.php.ui.editor.hover.BestMatchHover;0;org.eclipse.php.debug.ui.hovers.PHPDebugTextHover;\!0;org.eclipse.php.ui.editor.hover.ProblemHover;\!0;org.eclipse.php.ui.editor.hover.PHPAnnotationTextHover;\!0;org.eclipse.php.ui.editor.hover.PHPSourceTextHover;Ctrl;
+editorColorString=\#ffff80 | none | false | false | false
+org.eclipse.php.ui.editor.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+editorColorNumber=\#7bd827 | none | false | false | false
+hoverModifierMasks=org.eclipse.php.ui.editor.hover.BestMatchHover;0;org.eclipse.php.debug.ui.hovers.PHPDebugTextHover;0;org.eclipse.php.ui.editor.hover.ProblemHover;0;org.eclipse.php.ui.editor.hover.PHPAnnotationTextHover;0;org.eclipse.php.ui.editor.hover.PHPSourceTextHover;262144;
+ChangeOutlineModeAction.selectedMode=1
+editorColorHeredoc=\#d1debf | none | false | false | false
+editorColorVariable=\#8db0d3 | none | false | false | false
+editorColorBoundarymaker=\#ffffff | none | false | false | false
+useQuickDiffPrefPage=true

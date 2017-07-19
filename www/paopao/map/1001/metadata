@@ -1,0 +1,11 @@
+map_id=1001
+map_name=桃花村
+map_pic=1001.jpg
+map_w=3000
+map_h=3000
+grid_w=40
+grid_h=30
+tile_w=320
+tile_h=240
+tile_col=10
+tile_row=13

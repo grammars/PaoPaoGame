@@ -1,0 +1,10 @@
+#Mon Sep 21 22:22:43 CST 2015
+com.aptana.ide.editor.css.CSSEDITOR_COMMENT_COLOR=58,129,218
+com.aptana.ide.editor.css.CSSEDITOR_LITERAL_COLOR=140,221,68
+com.aptana.ide.editor.css.CSSEDITOR_INITIAL_CONTENTS=body {\r\n\t\r\n}
+com.aptana.ide.editor.css.CSSEDITOR_STRING_COLOR=240,128,71
+com.aptana.ide.editor.css.CSSEDITOR_KEYWORD_COLOR=141,176,211
+com.aptana.ide.editor.css.CSSEDITOR_PUNCTUATOR_COLOR=141,176,211
+com.aptana.ide.editor.css.CSSEDITOR_IDENTIFIER_COLOR=255,255,255
+eclipse.preferences.version=1
+com.aptana.ide.editor.css.CSSEDITOR_HASH_COLOR=255,255,128

@@ -1,0 +1,5 @@
+#Mon Sep 21 22:22:43 CST 2015
+org.eclipse.php.debug.coredefaultPHP=PHP5
+eclipse.preferences.version=1
+org.eclipse.php.debug.coreinstalledPHPLocations=E\:\\www\\zendcore\\bin
+org.eclipse.php.debug.coreinstalledPHPNames=ZendCore

@@ -1,0 +1,9 @@
+#Mon Sep 21 22:22:42 CST 2015
+DEFAULT=\#8db0d3 | null | false
+LITERAL=\#f08047 | null | false
+UNFINISHED_COMMENT=\#3a81da | null | true
+eclipse.preferences.version=1
+COMMENT=\#3a81da | null | false
+KEYWORD=\#ffff80 | null | false
+indentationChar=space
+indentationSize=4

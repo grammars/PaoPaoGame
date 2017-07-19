@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<property ns="base" url="base_uir.swf"/>
+<list>
+
+<!--base-->
+<item cls="transparant.png"/>
+
+<!--bg-->
+<item cls="bg_frameBack.png"/>
+<item cls="bg_paneFrame.png" slice="true" left="134" right="135" top="100" bottom="102"/>
+<item cls="bg_miniRndBrdGrey.png" slice="true" left="12" right="13" top="7" bottom="8"/>
+<item cls="bg_grey_shadow.png" slice="true" left="16" right="17" top="13" bottom="14"/>
+<item cls="bg_pure_grey.png"/>
+<item cls="bg_paneRect.png" slice="true" left="63" right="64" top="80" bottom="81"/>
+<item cls="bg_tip_easy.png" slice="true" left="32" right="33" top="20" bottom="21"/>
+<item cls="bg_tip_classic.png" slice="true" left="16" right="17" top="22" bottom="23"/>
+<item cls="bg_modern.png" slice="true" left="19" right="20" top="6" bottom="7"/>
+
+<!--btn-->
+<item cls="btn_comm0.png" slice="true" left="28" right="29" top="13" bottom="14"/>
+<item cls="btn_comm1.png" slice="true" left="28" right="29" top="13" bottom="14"/>
+<item cls="btn_comm2.png" slice="true" left="28" right="29" top="13" bottom="14"/>
+<item cls="btn_comm3.png" slice="true" left="28" right="29" top="13" bottom="14"/>
+
+<item cls="btn_ex_s_blue_sqr0.png"/>
+<item cls="btn_ex_s_blue_sqr1.png"/>
+<item cls="btn_ex_x_blue_sqr0.png"/>
+<item cls="btn_ex_x_blue_sqr1.png"/>
+
+<item cls="btn_drop_green_sqr0.png"/>
+<item cls="btn_drop_green_sqr1.png"/>
+<item cls="btn_drop_green_sqr2.png"/>
+
+<item cls="btn_close_mini0.png"/>
+<item cls="btn_close_mini1.png"/>
+<item cls="btn_close_mini2.png"/>
+
+<item cls="btn_close_pane0.png"/>
+<item cls="btn_close_pane1.png"/>
+<item cls="btn_close_pane2.png"/>
+
+<!--calendar-->
+<item cls="calendar_chosen.png" slice="true" left="12" right="14" top="12" bottom="14"/>
+<item cls="calendar_day0.png" slice="true" left="21" right="22" top="11" bottom="12"/>
+<item cls="calendar_day1.png" slice="true" left="21" right="22" top="11" bottom="12"/>
+<item cls="calendar_day2.png" slice="true" left="21" right="22" top="11" bottom="12"/>
+<item cls="calendar_MN0.png"/>
+<item cls="calendar_MN1.png"/>
+<item cls="calendar_MN2.png"/>
+<item cls="calendar_MP0.png"/>
+<item cls="calendar_MP1.png"/>
+<item cls="calendar_MP2.png"/>
+<item cls="calendar_YN0.png"/>
+<item cls="calendar_YN1.png"/>
+<item cls="calendar_YN2.png"/>
+<item cls="calendar_YP0.png"/>
+<item cls="calendar_YP1.png"/>
+<item cls="calendar_YP2.png"/>
+
+<!--scroll-->
+<item cls="scroll_bar0.png" slice="true" left="7" right="8" top="4" bottom="6"/>
+<item cls="scroll_bar1.png" slice="true" left="7" right="8" top="4" bottom="6"/>
+<item cls="scroll_bar2.png" slice="true" left="7" right="8" top="4" bottom="6"/>
+<item cls="scroll_barFace.png"/>
+<item cls="scroll_bound.png"/>
+<item cls="scroll_v_down0.png"/>
+<item cls="scroll_v_down1.png"/>
+<item cls="scroll_v_down2.png"/>
+<item cls="scroll_v_up0.png"/>
+<item cls="scroll_v_up1.png"/>
+<item cls="scroll_v_up2.png"/>
+
+<!--operPane-->
+<item cls="operPane_bg.png"/>
+<item cls="operPane_round_mask.png"/>
+<item cls="operPane_attack0.png"/>
+<item cls="operPane_attack1.png"/>
+<item cls="operPane_attack2.png"/>
+<item cls="operPane_attack3.png"/>
+<item cls="operPane_bag0.png"/>
+<item cls="operPane_bag1.png"/>
+<item cls="operPane_cfg0.png"/>
+<item cls="operPane_cfg1.png"/>
+<item cls="operPane_defense0.png"/>
+<item cls="operPane_defense1.png"/>
+<item cls="operPane_defense2.png"/>
+<item cls="operPane_defense3.png"/>
+<item cls="operPane_down0.png"/>
+<item cls="operPane_down1.png"/>
+<item cls="operPane_exp_cover.png"/>
+<item cls="operPane_family0.png"/>
+<item cls="operPane_family1.png"/>
+<item cls="operPane_friend0.png"/>
+<item cls="operPane_friend1.png"/>
+<item cls="operPane_gem0.png"/>
+<item cls="operPane_gem1.png"/>
+<item cls="operPane_guard0.png"/>
+<item cls="operPane_guard1.png"/>
+<item cls="operPane_hook0.png"/>
+<item cls="operPane_hook1.png"/>
+<item cls="operPane_hook2.png"/>
+<item cls="operPane_hook3.png"/>
+<item cls="operPane_horse0.png"/>
+<item cls="operPane_horse1.png"/>
+<item cls="operPane_jingmai0.png"/>
+<item cls="operPane_jingmai1.png"/>
+<item cls="operPane_lu0.png"/>
+<item cls="operPane_lu1.png"/>
+<item cls="operPane_ride0.png"/>
+<item cls="operPane_ride1.png"/>
+<item cls="operPane_ride2.png"/>
+<item cls="operPane_ride3.png"/>
+<item cls="operPane_role0.png"/>
+<item cls="operPane_role1.png"/>
+<item cls="operPane_sit0.png"/>
+<item cls="operPane_sit1.png"/>
+<item cls="operPane_sit2.png"/>
+<item cls="operPane_sit3.png"/>
+<item cls="operPane_skill0.png"/>
+<item cls="operPane_skill1.png"/>
+<item cls="operPane_sneer0.png"/>
+<item cls="operPane_sneer1.png"/>
+<item cls="operPane_sneer2.png"/>
+<item cls="operPane_sneer3.png"/>
+<item cls="operPane_soul0.png"/>
+<item cls="operPane_soul1.png"/>
+<item cls="operPane_team0.png"/>
+<item cls="operPane_team1.png"/>
+<item cls="operPane_up0.png"/>
+<item cls="operPane_up1.png"/>
+<item cls="operPane_vip0.png"/>
+<item cls="operPane_vip1.png"/>
+
+<!--target-->
+<item cls="target_ball.png"/>
+<item cls="target_line_blue.png" slice="true" left="19" right="20" top="5" bottom="6"/>
+<item cls="target_line_green.png" slice="true" left="19" right="20" top="5" bottom="6"/>
+<item cls="target_line_red.png" slice="true" left="19" right="20" top="5" bottom="6"/>
+<item cls="target_line_yellow.png" slice="true" left="19" right="20" top="5" bottom="6"/>
+<item cls="target_masterCorner_bg.png"/>
+<item cls="target_masterCorner_cover.png"/>
+<item cls="target_pet_bg.png"/>
+<item cls="target_pet_cover.png"/>
+<item cls="target_tarMid_bg.png"/>
+<item cls="target_tarMid_cover.png"/>
+<item cls="target_team_bg.png"/>
+<item cls="target_team_cover.png"/>
+
+<!--chatBox-->
+<item cls="chatBox_resize0.png"/>
+<item cls="chatBox_resize1.png"/>
+<item cls="chatBox_resize2.png"/>
+<item cls="chatBox_speaker0.png"/>
+<item cls="chatBox_speaker1.png"/>
+<item cls="chatBox_speaker2.png"/>
+<item cls="chatBox_tab0.png"/>
+<item cls="chatBox_tab1.png"/>
+<item cls="chatBox_tab2.png"/>
+
+</list>
+</config>

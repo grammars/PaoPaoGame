@@ -1,0 +1,18 @@
+#Mon Sep 21 22:22:42 CST 2015
+com.aptana.ide.editor.js.JSEDITOR_ERROR_COLOR=255,128,128
+com.aptana.ide.editor.js.JSCOMMENTEDITOR_DELIMITER_COLOR=58,129,218
+com.aptana.ide.editor.js.JSEDITOR_PUNCTUATOR_COLOR=255,255,255
+com.aptana.ide.editor.js.JSEDITOR_PROPOSALS_FOREGROUND_COLOR=255,255,255
+com.aptana.ide.editor.js.JSEDITOR_LITERAL_COLOR=141,176,211
+com.aptana.ide.editor.js.JSEDITOR_JSCORE_COLOR=141,176,211
+com.aptana.ide.editor.js.JSEDITOR_NUMBER_COLOR=255,0,255
+com.aptana.ide.editor.js.JSEDITOR_STRING_COLOR=240,128,71
+com.aptana.ide.editor.js.JSEDITOR_DOCUMENTATION_COLOR=58,129,218
+com.aptana.ide.editor.js.JSCOMMENTEDITOR_TEXT_COLOR=58,129,218
+com.aptana.ide.editor.js.JSEDITOR_NATIVETYPE_COLOR=141,176,211
+com.aptana.ide.editor.js.JSEDITOR_KEYWORD_COLOR=255,255,128
+com.aptana.ide.editor.js.JSEDITOR_DEFAULT_COLOR=141,176,211
+eclipse.preferences.version=1
+com.aptana.ide.editor.js.JSEDITOR_BACKGROUND_COLOR=0,0,0
+com.aptana.ide.editor.js.JSEDITOR_HTMLDOM_COLOR=141,176,211
+com.aptana.ide.editor.js.JSEDITOR_COMMENT_COLOR=58,129,218

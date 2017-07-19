@@ -1,0 +1,17 @@
+#Mon Sep 21 22:22:43 CST 2015
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+lineNumberRuler=true
+AbstractTextEditor.Color.Foreground=255,255,255
+AbstractTextEditor.Color.SelectionBackground=128,128,128
+currentLineColor=39,58,75
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+AbstractTextEditor.Color.Background=17,36,53
+lineNumberColor=192,192,192
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+printMarginColor=192,192,192
+hyperlinkColor=255,0,128
+eclipse.preferences.version=1
+AbstractTextEditor.Color.SelectionForeground=125,197,255
+warn_if_input_derived=false
+overviewRuler_migration=migrated_3.1
